@@ -1,0 +1,11 @@
+export const Transparent = "#FFFFFF00";
+export const White = "#ffffff";
+export const Black = "#000000";
+export const Red = "#ff0000";
+export const Gray = "#acacac";
+export const VeryLightGray = "#dddddd";
+export const AppColor = "#9c27b0";
+export const AppColorLight = "#d05ce3";
+export const AppColorDark = "#6a0080";
+export const InactiveTab = "#ced2d4";
+export const VeryDarkBlue = "#003663";
